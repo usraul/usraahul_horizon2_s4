@@ -1,3 +1,0 @@
-std_msgs/Float64[3] joint_input
----
-std_msgs/Float64[2] joint_output
